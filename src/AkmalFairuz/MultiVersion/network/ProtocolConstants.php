@@ -8,12 +8,12 @@ use pocketmine\network\mcpe\protocol\ProtocolInfo;
 
 class ProtocolConstants{
 
-    public const BEDROCK_1_16_220 = 431;
-    public const BEDROCK_1_17_0 = 440;
-    public const BEDROCK_1_17_10 = 448;
-    public const BEDROCK_1_17_30 = 465;
-    public const BEDROCK_1_17_40 = 471;
-    public const BEDROCK_1_18_0 = 475;
+    public const BEDROCK_1_20_40 = 431;
+    public const BEDROCK_1_20_50 = 440;
+    public const BEDROCK_1_20_60 = 448;
+    public const BEDROCK_1_20_70 = 465;
+    public const BEDROCK_1_20_80 = 671;
+    public const BEDROCK_1_21_0 = 685;
 
     public const MINECRAFT_VERSION = [
         self::BEDROCK_1_16_220 => "1.16.220",
